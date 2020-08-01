@@ -1,0 +1,6 @@
+{
+    "name": "nagygi/barion-web-php",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "require": {}
+}
